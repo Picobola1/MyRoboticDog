@@ -6,5 +6,3 @@ This is my attempt of making a robot dog or quadroped, it uses the arduino libar
 
 
 <img width="500" height="906" alt="image" src="https://github.com/user-attachments/assets/0a4ea921-14c2-4cb7-8f55-44d453dd9193" />
-
-hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
